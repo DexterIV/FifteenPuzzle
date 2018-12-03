@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="15Puzzje">
+    <output-path>$PROJECT_DIR$/out/artifacts/15Puzzje</output-path>
+    <root id="archive" name="15Puzzje.jar">
+      <element id="module-output" name="FifteenPuzzle" />
+    </root>
+  </artifact>
+</component>
